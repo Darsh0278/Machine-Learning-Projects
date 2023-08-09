@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Machine-Learning-Projects (these are some projects when i was learning ML)
 ## The .csv files for each corresponding ML are as follows:
 ##   1. Expense Prediction - insurance.csv
 ##   2. Purchase Prediction - Social_Network_Ads.csv
